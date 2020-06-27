@@ -151,7 +151,6 @@ public class ReadabilityScore {
 
         for (String aWord : words) {
             int vowelCounter = 0;
-            String tempLook = aWord;
             String[] charactersInWord = new String[aWord.length()];
             if (aWord.matches(".+e[?!,.]")) { //if ends with e and followed by . or ,
                 aWord = aWord.substring(0, aWord.length() - 2);
