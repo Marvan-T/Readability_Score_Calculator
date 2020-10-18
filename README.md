@@ -5,7 +5,6 @@ Reads text in a file and displays readability score based on 4 tests. The follow
 - SMOG index
 - Coleman–Liau index
 <br />
-![encrypt](https://i.imgur.com/7Kivnov.gifv)
 
 
 
